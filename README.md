@@ -1,18 +1,16 @@
-# Drag and Drop Reference
+# Drag and Drop Puzzle Assignment
 
-TODO: Write a project description
+TODO: Fix bugs and make it functional !
 
-## Contributing
+##BUGS
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+1. Fixed Stacked images
+2. Fixed Reset button
+3. Fixed other images of puzzle
+
 
 ## Credits
 
-TODO: Write credits
+Saddul_Divij
 
-## License
-MIT
+
